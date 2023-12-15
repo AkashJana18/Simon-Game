@@ -1,4 +1,4 @@
-# Simon Game
+# Simon Game https://akashjana18.github.io/Simon-Game/
 Simon Game is a simple browser-based game where players have to memorize and repeat a sequence of colored buttons. This project consists of HTML, CSS, and JavaScript code to create the game interface, handle user input, and generate random sequences for the game.
 
 # Game Mechanics
